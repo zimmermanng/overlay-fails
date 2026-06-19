@@ -6,3 +6,6 @@ Hinweis: Die Tools ändern sich fast täglich. Unsere Beispiele sind deshalb imm
 
 Die Unterzeichner sind:
 - ...
+
+Weitere Informationen zum Thema:
+- [Literaturverweise](literaturverweise.md)
