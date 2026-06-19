@@ -8,4 +8,4 @@ Die Unterzeichner sind:
 - ...
 
 Weitere Informationen zum Thema:
-- [Literaturverweise](literaturverweise.md)
+- [Literaturverweise](./literaturverweise.md)
