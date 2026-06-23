@@ -2,6 +2,8 @@
 
 Automatisierte Barrierefreiheits-Tools machen Webseiten nicht immer barrierefrei. In diesem Projekt zeigen wir anhand von Beispielen, woran diese Tools scheitern. 
 
+[Flyer "Automatisierte Barrierefreiheits-Tools machen Webseiten nicht barrierefrei"](https://github.com/zimmermanng/overlay-fails/blob/main/info_bf_tools_08.pdf) (Stand: Juni 2026)
+
 Hinweis: Die Tools ändern sich fast täglich. Unsere Beispiele sind deshalb immer als Momentaufnahme zu sehen und sind mit Datum markiert.
 
 Die Unterzeichner sind:
