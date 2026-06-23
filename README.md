@@ -5,7 +5,15 @@ Automatisierte Barrierefreiheits-Tools machen Webseiten nicht immer barrierefrei
 Hinweis: Die Tools ändern sich fast täglich. Unsere Beispiele sind deshalb immer als Momentaufnahme zu sehen und sind mit Datum markiert.
 
 Die Unterzeichner sind:
-- ...
+- Alexander Pfingstl
+- Astrid Hassenbach, CPACC
+- Gottfried Zimmermann, CPWA
+- Kevin Pakula
+- Susanne Baumer
 
-Weitere Informationen zum Thema:
+Unterstützer:
+- [Überwachungsstelle des Bundes für Barrierefreiheit von Informationstechnik (BFIT-Bund)](https://www.bfit-bund.de/)
+- [IAAP D-A-CH](https://iaap-dach.org/)
+
+Weitere Informationen und Stellungnahmen zum Thema:
 - [Literaturverweise](https://github.com/zimmermanng/overlay-fails/blob/main/Literaturverweise.md)
