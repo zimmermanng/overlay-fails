@@ -14,9 +14,13 @@
 - Niklas Egger. (2021a, September 22). Webinar: Wie funktioniert ein Overlay-Tool? https://digitalisierung.hdm-stuttgart.de/barrierefreiheit/2021/09/14/webinar-wie-funktioniert-ein-overlay-tool/
 - Niklas Egger. (2021b, November 25). Webinar: Overlay-Tools als Unterstützung für barrierefreie Websites – Potenziale und Grenzen. https://digitalisierung.hdm-stuttgart.de/barrierefreiheit/2021/11/11/webinar-overlay-tools-als-unterstuetzung-fuer-barrierefreie-websites-potenziale-und-grenzen/
 - Sascha Schörnick. (2023, Juni 1). Vereinfachung der Bedienung durch Personalisierung—Analyse und Verbesserungspotential eines Overlay-Tools. Bachelorthesis. Hochschule der Medien Stuttgart.
+- Daniela Kubesch (2024) [https://overlays.dnikub.dev/](The Impact of Web Accessibility Overlays | Master's Thesis by Daniela Kubesch)
 
 ## Weitere Literatur
 
-Weitere Literaturhinweise im TRAINomat des Kompetenzzentrum für digitale Barrierefreiheit 
+* Weitere Literaturhinweise im TRAINomat des Kompetenzzentrum für digitale Barrierefreiheit 
 an der Hochschule der Medien: 
 [TRAINomat-Suche nach "(I) OverlayTools"](https://trainomat.bf-lernen.de/?q=&tags=%28I%29+OverlayTools)
+* Zahreiche Veröffentlichungen hat Christophe Strobbe gesammelt:
+[Websites About Overlay Tools](https://cstrobbe.gitlab.io/AccessibilityResources/accessibility-overlays.html)
+
